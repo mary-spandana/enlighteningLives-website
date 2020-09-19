@@ -1,0 +1,125 @@
+body{
+  font-family: 'Encode Sans', sans-serif;
+}
+
+/* Home and title */
+
+
+#home{
+  background-color:#a6e3e9;
+}
+.title{
+  text-align: left;
+}
+
+.feet{
+  width:40%;
+
+  position:relative;
+  top:10%;
+}
+
+.helping-hand{
+  width:65%;
+  position: relative;
+  left:30%;
+}
+
+.navbar{
+  padding: 3% 9%;
+
+}
+
+.nav-link{
+  font-size: 1.3rem;
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.intro{
+  padding: 5% 10% 7%;
+  margin-bottom: 5%;
+}
+
+h1{
+  line-height: 1.5;
+  font-size: 3.5em;
+  font-weight: 800;
+  color: #40514e;
+
+}
+
+/* Features and motto */
+.features{
+  padding:5% 10%;
+  text-align: center;
+  line-height: 1.5;
+  margin-bottom: 3%;
+}
+.ficon{
+  color:#30e3ca;
+  margin-bottom: 10px;
+}
+.ficon:hover{
+  color:#0dceda;
+}
+h3{
+  line-height: 1.5;
+  font-weight: 500;
+}
+p{
+  font-weight: 300;
+  line-height:2;
+}
+
+
+/* Gallery and Blog */
+#galleryAndBlog{
+  background-color:#87dfd6;
+  padding: 5%;
+  text-align: center;
+}
+
+h2{
+  padding: 3%;
+  color: #2f9296;
+}
+
+.arrow{
+  width:30%;
+}
+.arrowr{
+  transform: scaleX(-1);
+  width:30%;
+}
+.gbtn{
+  position: relative;
+  top:20px;
+  left:5px;
+  color: #158467;
+}
+.grbtn{
+  position: relative;
+  top:20px;
+  right:5px;
+  color: #158467;
+
+}
+
+/* Footer */
+footer{
+  background-color: #87dfd6;
+  text-align:center;
+  padding: 5% 5% 2%;
+}
+
+.smicon{
+margin: 5px;
+}
+p{
+  font-size: 0.7em;
+}
